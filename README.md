@@ -1,2 +1,12 @@
-# tictactoe-game
-This project is a classic implementation of the Tic-Tac-Toe game using HTML, CSS, and JavaScript. It allows two players to compete against each other, taking turns to mark X and O on a 3x3 grid. The game detects winning conditions (three marks in a row, column, or diagonal) and declares a winner or a draw when all squares are filled.
+# Tic-Tac-Toe Game
+This is a simple Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript.
+
+## How to Play
+- Clone or download the repository.
+- Open `index.html` in your web browser.
+- Click on the squares to make your move.
+- The game alternates between X and O.
+- The first player to get three of their marks in a row (vertically, horizontally, or diagonally) wins.
+
+
+
